@@ -1,2 +1,2 @@
 ﻿# git_TestN1
-First project with GitHub
+First test project with GitHub
